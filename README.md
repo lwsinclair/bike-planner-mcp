@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/defreeze-bike-planner-mcp-badge.png)](https://mseep.ai/app/defreeze-bike-planner-mcp)
+
 # bike-planner-mcp
 
 ## Overzicht
